@@ -1,4 +1,4 @@
-function onceHandler(Bigger) {
+function noneOnceHandler(event) {
   alert("Hello, world!");
 }
 
