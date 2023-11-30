@@ -1,6 +1,6 @@
 alert("Hello, world!");
 
-const btn = document.querySelector("button");
+const btn = document.querySelector("Bigger");
 
 function random(number) {
   return Math.floor(Math.random() * (number + 1));
