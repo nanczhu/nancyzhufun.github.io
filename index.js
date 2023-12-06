@@ -1,7 +1,9 @@
 alert("Hello, world!");
 
-function textBigger(newSize) {
-  document.getElementById("taID").style.propertyName = "value";
+function biggerSize() {
+  document.getElementById("taid").style.propertyName = "24pt";
 }
+
+
 
 
