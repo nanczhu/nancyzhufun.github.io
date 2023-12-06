@@ -1,4 +1,7 @@
+
 function noneOnceHandler(event) {
-  alert("Hello, world!");
+  if(button.value == "Bigger") {
+    alert("Hello, world!");
+  }
 }
 
