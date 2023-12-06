@@ -1,5 +1,6 @@
-
-if(button.value == "Bigger") {
-    alert("Hello, world!");
-  }
+function updateButton() {
+    if(button.value == "Bigger") {
+        alert("Hello, world!");
+    }
+}
 
