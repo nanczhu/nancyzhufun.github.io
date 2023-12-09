@@ -4,7 +4,7 @@ alert("Hello, world!");
 const btn = document.querySelector("button");
 
 function text() {
-  return fontsize(24pt);
+  return fontsize(24);
 }
 
 btn.addEventListener("click", () => {
