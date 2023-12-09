@@ -3,8 +3,13 @@ alert("Hello, world!");
 const btn = document.querySelector("button");
 
 function changeSize(newText) {
- const text = document.getElementById("taid").style.propertyText = "24pt";
 }
+
+btn.addEventListener("click", () => {
+ const text = fontsize(24pt);
+ document.getElementById("taid").style.propertyName = text;
+});
+
 
 
 
