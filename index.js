@@ -2,10 +2,9 @@ alert("Hello, world!");
 
 const btn = document.querySelector("button");
 
-function biggerSize() {
-  document.getElementById("taid").style.propertyName = "24pt";
+function changeSize(newText) {
+ const text = document.getElementById("taid").style.propertyName = "4em";
 }
-btn.onclick = biggerSize();
 
 
 
