@@ -3,7 +3,7 @@ alert("Hello, world!");
 const btn = document.querySelector("button");
 
 btn.onclick = () => {
- document.getElementById("text").style.propertyName = "text";
+ document.getElementById("text").style.propertyName = "value";
 };
 
 
