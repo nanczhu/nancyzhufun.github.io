@@ -3,7 +3,8 @@ alert("Hello, world!");
 const btn = document.querySelector("button");
 
 btn.onclick = () => {
- document.getElementById("text").style.propertyName = "value";
+ const value = '24pt';
+ document.getElementById("text").style.propertyName = value;
 };
 
 
