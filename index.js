@@ -1,6 +1,6 @@
 alert("Hello, world!");
 
-const btn = document.querySelector("button");
+const btn = document.querySelector("bid");
 
 function textChange() {
   const value = '24pt';
