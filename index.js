@@ -4,7 +4,7 @@ const btn = document.querySelector("button");
 
 btn.onclick = () => {
  const value = '24pt';
- document.getElementById("text").style.propertyName = value;
+ document.getElementById("text").style.propertyName = bid;
 };
 
 
