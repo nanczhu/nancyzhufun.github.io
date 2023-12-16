@@ -7,7 +7,7 @@ function textChange() {
   document.getElementById("text").style.propertyName = value;
 }
 
-btn.onclick = textChange;
+//btn.onclick = textChange;
 
 
 if(localStorage.getItem('color-mode'))
